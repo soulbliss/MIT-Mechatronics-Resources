@@ -6,12 +6,12 @@ This folder contains sub-folders, each containing links to resources of a partic
 
 - [Fields under Mechatronics](#fields-under-mechatronics)
   - [Table of contents](#table-of-contents)
-  - [Fileds](#fileds)
+  - [Fields](#fields)
     - [Mathematics](#mathematics)
     - [Machine Learning](#machine-learning)
     - [Robotics](#robotics)
 
-## Fileds
+## Fields
 
 ### Mathematics
 
